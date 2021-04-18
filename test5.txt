@@ -1,0 +1,14 @@
+ Le volume dans le lecteur C s'appelle Windows
+ Le num‚ro de s‚rie du volume est F4AB-8E21
+
+ R‚pertoire de C:\Users\Rym.essid\Desktop\test.g.21
+
+18/04/2021  13:38    <DIR>          .
+18/04/2021  13:38    <DIR>          ..
+18/04/2021  10:21               269 CTA_01_test_page_authentification.tc
+18/04/2021  10:40                48 test1.txt
+18/04/2021  11:35             6.168 test3.xlsx
+18/04/2021  11:53                 0 test4.docx
+18/04/2021  13:38                 0 test5.txt
+               5 fichier(s)            6.485 octets
+               2 R‚p(s)  137.456.914.432 octets libres
